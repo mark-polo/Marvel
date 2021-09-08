@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "580360525952",
+    "project_id": "marvel-c9592",
+    "storage_bucket": "marvel-c9592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580360525952:android:a5120032d68c8a20cfae65",
+        "android_client_info": {
+          "package_name": "com.mrm.marvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580360525952-h2ud273cfn57u2pv33utr25uorr35uge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrm.marvel",
+            "certificate_hash": "86aacd43cb18c1221eec809ad38cecf59f6a8732"
+          }
+        },
+        {
+          "client_id": "580360525952-17ulnh6ha0e15q817mtsunl30e361jel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB23k9We6dddMiLBru1evadYDHo97nDrew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580360525952-17ulnh6ha0e15q817mtsunl30e361jel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
